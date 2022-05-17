@@ -2,10 +2,10 @@
 
 -- SFWGHO
 
-/* 
- * Question 1
- * How many employee records are lacking both a grade and salary?
- */
+ 
+ # Question 1
+ ## How many employee records are lacking both a grade and salary?
+ 
 
 -- 
 
