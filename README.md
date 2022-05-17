@@ -1,4 +1,4 @@
-# codeclan_sql_week
+# SQL at CodeClan
 
 Portfolio of SQL work completed while at CodeClan
 
